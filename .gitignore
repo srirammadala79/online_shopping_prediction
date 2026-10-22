@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary & system generated
+scratch/
+.system_generated/
+*.tmp
+submission_folder/
+app/
+vercel_deployment/
+figures/*.png
+*.ppt
+*.pptx
+export_ppt.ps1
+generate_review2_ppt.py
