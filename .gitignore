@@ -26,7 +26,6 @@ scratch/
 submission_folder/
 app/
 vercel_deployment/
-figures/*.png
 *.ppt
 *.pptx
 export_ppt.ps1
